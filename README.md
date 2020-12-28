@@ -7,11 +7,6 @@
 - 熔断器设计原理及 Golang 实现
 - 服务网格和代理网关熔断机制
 
-本章内容提要：
-- 任务调度依赖 & 工作流
-- 图相关知识
-- golang 并发相关
-
 ### 阅读全文链接
 [微服务熔断实现](https://mp.weixin.qq.com/s?__biz=MzIyMzMxNjYwNw==&mid=2247484006&idx=1&sn=14083070db9a5aa54d6d55718c6f967c&chksm=e8215d76df56d4605b7364fafbb7dc344cac86f3f7955d7131a8b6263caa78514c2976aa4fab&token=1518190680&lang=zh_CN#rd)
 
